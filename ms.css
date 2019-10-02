@@ -3,7 +3,11 @@ height:100px;
 }
 
 #i1{
-width:50%;
+width:50%
+}
+
+#i2{
+width:50%
 }
 
 #photo{
@@ -13,5 +17,5 @@ height:80px;
 #label{
 height:20px;
 margin-left:auto
-color:blue;
+color:black;
 }
